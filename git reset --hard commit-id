@@ -1,0 +1,261 @@
+* [33m59a7c03[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Added laravel to the project, still needs some work
+* [33m1e677c8[m added laravel to the project, still need to fix it though
+[31m|[m * [33maf201be[m[33m ([m[1;36mHEAD[m[33m)[m README.md
+[31m|[m * [33m6e623a4[m Initial commit
+[31m|[m * [33m519d2d4[m[33m ([m[1;31morigin/sidebarIconTooltip[m[33m)[m Adding tooltips to collapsible sidebar
+[31m|[m[31m/[m  
+[31m|[m * [33mdf6d829[m[33m ([m[1;31morigin/removePestTest[m[33m)[m removing pest test for the new installer
+[31m|[m[31m/[m  
+[31m|[m *   [33mf59c585[m[33m ([m[1;31morigin/workos[m[33m)[m fix conflicts
+[31m|[m [35m|[m[31m\[m  
+[31m|[m [35m|[m[31m/[m  
+[31m|[m[31m/[m[35m|[m   
+[31m|[m * [33m0e9f83e[m include the workos branch in the workflows (#80)
+* [36m|[m [33m6fa726e[m fix: sidebar dropdown open position (#71)
+* [36m|[m [33mbb6a736[m Replcae package with built-in (#76)
+* [36m|[m [33m6602f0e[m Add a `.prettierignore` rule to exclude `resources/views/mail/*` from formatting. (#77)
+[36m|[m *   [33m6d44c2b[m fix conflicts
+[36m|[m [1;31m|[m[36m\[m  
+[36m|[m [1;31m|[m[36m/[m  
+[36m|[m[36m/[m[1;31m|[m   
+* [1;31m|[m [33mc4b9cf5[m Fixing Inertia SSR errors (#74)
+* [1;31m|[m [33m8370090[m remove comment
+* [1;31m|[m [33m87c5988[m fixing the margin of the layout when the sidebar is collapsed (#75)
+[1;32m|[m [1;31m|[m * [33m5e0a7cf[m[33m ([m[1;31morigin/sidebarMarginFix[m[33m)[m fixing the margin of the layout when the sidebar is collapsed
+[1;32m|[m [1;31m|[m[1;32m/[m  
+[1;32m|[m[1;32m/[m[1;31m|[m   
+* [1;31m|[m [33mf4c0a41[m Bye bye separator 👋🏻 (#66)
+* [1;31m|[m [33m41eb194[m Add `ziggy.js` to `.prettierignore` (#68)
+* [1;31m|[m [33mb18bb6f[m fix route redirect for settings path (#70)
+* [1;31m|[m [33m854097b[m AppLogo class fixed (#72)
+* [1;31m|[m [33ma91ba17[m port skeleton change
+[1;33m|[m [1;31m|[m *   [33mfdea26f[m[33m ([m[1;31morigin/preview[m[33m)[m fix conflicts
+[1;33m|[m [1;31m|[m [1;34m|[m[1;33m\[m  
+[1;33m|[m [1;31m|[m[1;33m_[m[1;34m|[m[1;33m/[m  
+[1;33m|[m[1;33m/[m[1;31m|[m [1;34m|[m   
+[1;33m|[m * [1;34m|[m   [33m1da24d4[m fix conflicts
+[1;33m|[m [1;36m|[m[1;33m\[m [1;34m\[m  
+[1;33m|[m [1;36m|[m[1;33m/[m [1;34m/[m  
+[1;33m|[m[1;33m/[m[1;36m|[m [1;34m|[m   
+* [1;36m|[m [1;34m|[m [33mca47e6e[m fix package lock
+* [1;36m|[m [1;34m|[m [33m779bd95[m Remove unused props (#62)
+* [1;36m|[m [1;34m|[m [33me488626[m Remove SSR folder from source control (#47)
+* [1;36m|[m [1;34m|[m [33m57f145f[m Fix: Active indicator in app header layout (#48)
+* [1;36m|[m [1;34m|[m [33m7f4662e[m chore: reorder imports in resources/js/types/index.ts (#50)
+* [1;36m|[m [1;34m|[m [33m4ab05af[m refactor: Update ZiggyVue import path to use 'ziggy-js' (#51)
+* [1;36m|[m [1;34m|[m [33m668d999[m Remove unnecessary SQLite file creation in test workflow (#56)
+* [1;36m|[m [1;34m|[m [33m4d3b91f[m Remove unused dependency (#57)
+* [1;36m|[m [1;34m|[m [33me00f9b3[m Fix adding components (#58)
+* [1;36m|[m [1;34m|[m [33mc2b9d02[m Update Breadcrumbs.vue (#59)
+* [1;36m|[m [1;34m|[m [33m836bbf9[m Update wording (#63)
+* [1;36m|[m [1;34m|[m [33m06d18cb[m Fix class (#64)
+[31m|[m [1;36m|[m *   [33m59084a2[m fix conflicts
+[31m|[m [1;36m|[m [32m|[m[31m\[m  
+[31m|[m [1;36m|[m[31m_[m[32m|[m[31m/[m  
+[31m|[m[31m/[m[1;36m|[m [32m|[m   
+[31m|[m * [32m|[m   [33mf3a4803[m Merge branch 'main' into workos
+[31m|[m [34m|[m[31m\[m [32m\[m  
+[31m|[m [34m|[m[31m/[m [32m/[m  
+[31m|[m[31m/[m[34m|[m [32m|[m   
+* [34m|[m [32m|[m [33m5d0f78f[m refactor: use Inertia Link in Breadcrumbs component (#45)
+* [34m|[m [32m|[m [33m47b67a3[m fix model
+[35m|[m * [32m|[m [33m0a47d94[m fix model
+[35m|[m * [32m|[m   [33m1ea2f44[m fix conflicts
+[35m|[m [36m|[m[35m\[m [32m\[m  
+[35m|[m [36m|[m[35m/[m [32m/[m  
+[35m|[m[35m/[m[36m|[m [32m|[m   
+* [36m|[m [32m|[m   [33m609e1b5[m Merge branch 'mavrickthiry/main'
+[1;32m|[m[1;33m\[m [36m\[m [32m\[m  
+[1;32m|[m * [36m|[m [32m|[m [33m5150382[m work on formatting
+* [1;33m|[m [36m|[m [32m|[m [33m7fd0944[m Fix ShareData type (#40)
+* [1;33m|[m [36m|[m [32m|[m [33m3d8e198[m Update index.ts (#43)
+[1;33m|[m [1;33m|[m * [32m|[m   [33m169dd5e[m fix conflicts
+[1;33m|[m [1;33m|[m [1;34m|[m[1;33m\[m [32m\[m  
+[1;33m|[m [1;33m|[m[1;33m_[m[1;34m|[m[1;33m/[m [32m/[m  
+[1;33m|[m[1;33m/[m[1;33m|[m [1;34m|[m [32m|[m   
+* [1;33m|[m [1;34m|[m [32m|[m [33m775d39e[m run format
+[1;35m|[m [1;33m|[m * [32m|[m   [33m6f18a7a[m formatting
+[1;35m|[m [1;33m|[m [1;36m|[m[1;35m\[m [32m\[m  
+[1;35m|[m [1;33m|[m[1;35m_[m[1;36m|[m[1;35m/[m [32m/[m  
+[1;35m|[m[1;35m/[m[1;33m|[m [1;36m|[m [32m|[m   
+* [1;33m|[m [1;36m|[m [32m|[m [33m097e273[m update lock file
+* [1;33m|[m [1;36m|[m [32m|[m [33m596adac[m Fix: esbuild vulnerability (#44)
+* [1;33m|[m [1;36m|[m [32m|[m [33mc22e63e[m Fix: Vue type checking for AvatarImage component (#33)
+* [1;33m|[m [1;36m|[m [32m|[m [33mac2d172[m Update npm packages (#36)
+* [1;33m|[m [1;36m|[m [32m|[m [33m1ccb709[m fix: add gap to DialogFooter in DeleteUser component (#37)
+* [1;33m|[m [1;36m|[m [32m|[m [33m34b2752[m Delete public/logo.svg (#38)
+[31m|[m * [1;36m|[m [32m|[m [33mc2fb274[m Fix styles for update profile with dark mode
+[31m|[m[31m/[m [1;36m/[m [32m/[m  
+[31m|[m * [32m|[m   [33m4bae362[m fix conflicts
+[31m|[m [32m|[m[31m\[m [32m\[m  
+[31m|[m [32m|[m[31m/[m [32m/[m  
+[31m|[m[31m/[m[32m|[m [32m|[m   
+* [32m|[m [32m|[m [33maba3270[m Fix: Breadcrumb not displayed on the header layout (#32)
+* [32m|[m [32m|[m [33m00d7ca6[m Fix: Explicitly Initialize Input Refs with null for Better Type Safety (#31)
+[33m|[m * [32m|[m   [33m1336b1c[m fix conflicts
+[33m|[m [34m|[m[33m\[m [32m\[m  
+[33m|[m [34m|[m[33m/[m [32m/[m  
+[33m|[m[33m/[m[34m|[m [32m|[m   
+* [34m|[m [32m|[m [33m254fc9c[m Remove redundant prop sharing from the middleware (#21)
+* [34m|[m [32m|[m [33mbe15c9b[m Revert "fix: update autocomplete attribute in Profile.vue (#29)" (#30)
+* [34m|[m [32m|[m [33ma67bfbb[m fix: update autocomplete attribute in Profile.vue (#29)
+* [34m|[m [32m|[m [33m70c929c[m Fix AppSidebar type error by using imported type and correct property names in NavMain (#27)
+* [34m|[m [32m|[m [33m0340f95[m Make "Current Password" label consistent with other labels (#28)
+* [34m|[m [32m|[m [33mb942d80[m Fix console warning messages on the login and register pages (#24)
+[35m|[m [34m|[m *   [33m0c631af[m Merge branch 'main' into preview
+[35m|[m [34m|[m [36m|[m[35m\[m  
+[35m|[m [34m|[m[35m_[m[36m|[m[35m/[m  
+[35m|[m[35m/[m[34m|[m [36m|[m   
+[35m|[m * [36m|[m   [33md235b98[m Merge branch 'main' into workos
+[35m|[m [1;32m|[m[35m\[m [36m\[m  
+[35m|[m [1;32m|[m[35m/[m [36m/[m  
+[35m|[m[35m/[m[1;32m|[m [36m|[m   
+* [1;32m|[m [36m|[m [33mdbf7c0f[m[33m ([m[1;33mtag: [m[1;33mv1.0.2[m[33m)[m Update font and minimum stability (#23)
+* [1;32m|[m [36m|[m [33md039baa[m Add preserveScroll option to profile update request (#20)
+[1;33m|[m [1;32m|[m *   [33m89f0735[m Merge branch 'main' into preview
+[1;33m|[m [1;32m|[m [1;34m|[m[1;33m\[m  
+[1;33m|[m [1;32m|[m[1;33m_[m[1;34m|[m[1;33m/[m  
+[1;33m|[m[1;33m/[m[1;32m|[m [1;34m|[m   
+[1;33m|[m * [1;34m|[m   [33mc87706e[m Merge branch 'main' into workos
+[1;33m|[m [1;36m|[m[1;33m\[m [1;34m\[m  
+[1;33m|[m [1;36m|[m[1;33m/[m [1;34m/[m  
+[1;33m|[m[1;33m/[m[1;36m|[m [1;34m|[m   
+* [1;36m|[m [1;34m|[m [33mbc5d88a[m[33m ([m[1;33mtag: [m[1;33mv1.0.1[m[33m)[m Sync with laravel/laravel (#22)
+* [1;36m|[m [1;34m|[m [33mfe8ce79[m Rename url to href in navigation items for consistency (#17)
+* [1;36m|[m [1;34m|[m [33m5172942[m fixing the warning message (#19)
+* [1;36m|[m [1;34m|[m [33mef2c4c8[m refactor: simplify prop usage in Vue components (#15)
+* [1;36m|[m [1;34m|[m [33m030a3df[m Use inertia link tag instead of html a tag (#12)
+* [1;36m|[m [1;34m|[m [33m9deac17[m fix: correct className to class in AppHeader.vue (#14)
+[31m|[m [1;36m|[m *   [33m62ce504[m fix conflicts
+[31m|[m [1;36m|[m [32m|[m[31m\[m  
+[31m|[m [1;36m|[m[31m_[m[32m|[m[31m/[m  
+[31m|[m[31m/[m[1;36m|[m [32m|[m   
+[31m|[m * [32m|[m   [33m9f166ff[m fix conflicts
+[31m|[m [34m|[m[31m\[m [32m\[m  
+[31m|[m [34m|[m[31m/[m [32m/[m  
+[31m|[m[31m/[m[34m|[m [32m|[m   
+* [34m|[m [32m|[m   [33mca4bbb6[m[33m ([m[1;33mtag: [m[1;33mv1.0.0[m[33m)[m run npm format
+[36m|[m[1;31m\[m [34m\[m [32m\[m  
+[36m|[m * [34m\[m [32m\[m   [33md0a1391[m fix conflicts
+[36m|[m [1;32m|[m[1;33m\[m [34m\[m [32m\[m  
+[36m|[m * [1;33m|[m [34m|[m [32m|[m [33m034fe88[m run npm format
+[36m|[m [1;33m|[m * [34m|[m [32m|[m   [33m0f9c0eb[m Merge branch 'ui-pass' of https://github.com/laravel/vue-starter-kit into ui-pass
+[36m|[m [1;33m|[m [1;34m|[m[1;33m\[m [34m\[m [32m\[m  
+[36m|[m [1;33m|[m [1;34m|[m[1;33m/[m [34m/[m [32m/[m  
+[36m|[m [1;33m|[m[1;33m/[m[1;34m|[m [34m|[m [32m|[m   
+[36m|[m [1;33m|[m * [34m|[m [32m|[m [33ma0a0ff3[m Centering status message
+[36m|[m * [1;35m|[m [34m|[m [32m|[m [33m1fbef39[m fix verification
+[36m|[m * [1;35m|[m [34m|[m [32m|[m [33m9174c44[m formatting
+[36m|[m [1;35m|[m[1;35m/[m [34m/[m [32m/[m  
+[36m|[m * [34m|[m [32m|[m [33m3a6dbc4[m updating className to class
+[36m|[m * [34m|[m [32m|[m   [33m0ac8315[m Merge branch 'ui-pass' of https://github.com/laravel/vue-starter-kit into ui-pass
+[36m|[m [1;36m|[m[31m\[m [34m\[m [32m\[m  
+[36m|[m * [31m|[m [34m|[m [32m|[m [33m72f41ae[m Adding correct class names
+[36m|[m [31m|[m * [34m|[m [32m|[m [33m89d16f9[m Update PlaceholderPattern.vue
+[36m|[m [31m|[m[31m/[m [34m/[m [32m/[m  
+[36m|[m * [34m|[m [32m|[m [33mda474ce[m Adding fixes to the card layout in dark mode
+[36m|[m [31m|[m * [32m|[m   [33m3c122b1[m fix conflicts
+[36m|[m [31m|[m [32m|[m[36m\[m [32m\[m  
+[36m|[m [31m|[m[36m_[m[32m|[m[36m/[m [32m/[m  
+[36m|[m[36m/[m[31m|[m [32m|[m [32m|[m   
+* [31m|[m [32m|[m [32m|[m [33ma869bb5[m update verification sentence
+[33m|[m * [32m|[m [32m|[m [33mc035ae3[m Adding placeholder to forgot password view
+[33m|[m * [32m|[m [32m|[m [33m2523af4[m Adding package lock backg
+[33m|[m * [32m|[m [32m|[m [33m92f5971[m small update
+[33m|[m * [32m|[m [32m|[m [33m086d6f2[m cleaning up a few more styles
+[33m|[m * [32m|[m [32m|[m [33md3d6e14[m updating the logo
+[33m|[m * [32m|[m [32m|[m [33m257a9a2[m Adding UI updates to vue starter kit
+[33m|[m[33m/[m [32m/[m [32m/[m  
+[33m|[m [32m|[m * [33meed2e5e[m update dependencies
+[33m|[m * [33m|[m   [33m6f4ac20[m Merge branch 'main' into workos
+[33m|[m [34m|[m[33m\[m [33m\[m  
+[33m|[m [34m|[m[33m/[m [33m/[m  
+[33m|[m[33m/[m[34m|[m [33m|[m   
+* [34m|[m [33m|[m [33m0d02e40[m add optional dependencies
+[35m|[m [34m|[m * [33md4a64b9[m update package json
+[35m|[m [34m|[m * [33mdbc18f4[m update package josn
+[35m|[m [34m|[m * [33mbdb91b3[m add lock
+[35m|[m [34m|[m * [33m5e14907[m remove package log
+[35m|[m [34m|[m * [33m33324ed[m remove space
+[35m|[m [34m|[m * [33m6783f16[m force update
+[35m|[m [34m|[m * [33m2cf4766[m build
+[35m|[m [34m|[m *   [33m50307a2[m Merge branch 'main' into preview
+[35m|[m [34m|[m [36m|[m[35m\[m  
+[35m|[m [34m|[m[35m_[m[36m|[m[35m/[m  
+[35m|[m[35m/[m[34m|[m [36m|[m   
+[35m|[m * [36m|[m   [33m6eefae1[m cleaning
+[35m|[m [1;32m|[m[35m\[m [36m\[m  
+[35m|[m [1;32m|[m[35m/[m [36m/[m  
+[35m|[m[35m/[m[1;32m|[m [36m|[m   
+* [1;32m|[m [36m|[m [33m30c7352[m cleaning
+* [1;32m|[m [36m|[m [33m394cd46[m fix code style
+* [1;32m|[m [36m|[m [33m2c6e1e5[m remove lock file
+[1;33m|[m * [36m|[m   [33mcf762d4[m fix conflicts
+[1;33m|[m [1;34m|[m[1;33m\[m [36m\[m  
+[1;33m|[m [1;34m|[m[1;33m/[m [36m/[m  
+[1;33m|[m[1;33m/[m[1;34m|[m [36m|[m   
+* [1;34m|[m [36m|[m [33m414d3d5[m Adding formatted welcome page (#9)
+[1;35m|[m [1;34m|[m * [33mea6940d[m add lock file
+* [1;34m|[m [1;35m|[m [33mfbadb60[m fix code style
+[1;35m|[m [1;34m|[m[1;35m/[m  
+[1;35m|[m[1;35m/[m[1;34m|[m   
+[1;35m|[m *   [33mbf2e42f[m Merge branch 'main' into workos
+[1;35m|[m [1;36m|[m[1;35m\[m  
+[1;35m|[m [1;36m|[m[1;35m/[m  
+[1;35m|[m[1;35m/[m[1;36m|[m   
+* [1;36m|[m [33m5405f71[m remove lock file
+[31m|[m *   [33m814e4f3[m fix conflicts
+[31m|[m [32m|[m[33m\[m  
+* [32m|[m [33m|[m [33m25a3660[m fix code style
+[33m|[m [32m|[m[33m/[m  
+[33m|[m[33m/[m[32m|[m   
+* [32m|[m [33m10f82ea[m use avatar component
+[33m|[m *   [33mf1bdb3e[m Merge branch 'main' into workos
+[33m|[m [34m|[m[33m\[m  
+[33m|[m [34m|[m[33m/[m  
+[33m|[m[33m/[m[34m|[m   
+* [34m|[m [33m46f537e[m fix header avatar
+[35m|[m * [33mc283f2d[m fix avatar
+* [35m|[m [33mafa07e9[m fix code style
+[35m|[m * [33mcdbf382[m remove lock file
+* [35m|[m [33ma981790[m remove lock file
+[35m|[m *   [33mc9c5e34[m Merge branch 'main' into workos
+[35m|[m [36m|[m[35m\[m  
+[35m|[m [36m|[m[35m/[m  
+[35m|[m[35m/[m[36m|[m   
+* [36m|[m [33m5c39132[m remove postcss
+* [36m|[m [33mce9d8e7[m update dependencies
+[1;31m|[m *   [33m72bcc26[m Merge branch 'main' into workos
+[1;31m|[m [1;32m|[m[1;31m\[m  
+[1;31m|[m [1;32m|[m[1;31m/[m  
+[1;31m|[m[1;31m/[m[1;32m|[m   
+* [1;32m|[m [33m9713ccb[m organize package json
+[1;33m|[m * [33m757bf22[m update .env.example
+[1;33m|[m *   [33mab55d10[m Merge branch 'main' into workos
+[1;33m|[m [1;34m|[m[1;33m\[m  
+[1;33m|[m [1;34m|[m[1;33m/[m  
+[1;33m|[m[1;33m/[m[1;34m|[m   
+* [1;34m|[m [33m9c935bf[m update readme
+[1;35m|[m *   [33me09f7e7[m fix conflicts
+[1;35m|[m [1;36m|[m[1;35m\[m  
+[1;35m|[m [1;36m|[m[1;35m/[m  
+[1;35m|[m[1;35m/[m[1;36m|[m   
+* [1;36m|[m [33m8e7d9d7[m add period
+[31m|[m *   [33m315cddf[m Merge branch 'main' into workos
+[31m|[m [32m|[m[31m\[m  
+[31m|[m [32m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m   
+* [32m|[m [33m2dad4e8[m remove phpstan file
+[33m|[m * [33m404cc13[m workos variant
+[33m|[m[33m/[m  
+* [33mc6fc715[m update to laravel 12
+* [33mf64ccc2[m fix code style
+* [33mcb5276c[m remove lock file
+* [33mcef746d[m update lint file
+* [33m7be7d9b[m period
+[33m|[m * [33mb21b911[m[33m ([m[1;31morigin/tw4[m[33m)[m fix code style
+[33m|[m * [33m29523bb[m Adding final updates to make this version TW4 compatible
+[33m|[m * [33mb9da4f0[m upgrading tailwind v4 steps
+[33m|[m[33m/[m  
+* [33ma3785cc[m Vue Starter Kit
+* [33mc9ca6ea[m first

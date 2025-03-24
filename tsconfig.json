@@ -1,0 +1,30 @@
+{
+    "compilerOptions": {
+        "module": "esnext",                        // Using ESNext modules for modern JavaScript features
+        "target": "esnext",                        // Target the latest JavaScript version to use features like top-level await, etc.
+        "types": [
+            "vite/client",                           // Vite client types to make import.meta work
+            "vue/tsx",                               // Ensure support for Vue with TypeScript and JSX
+            "./resources/js/types"                   // Include your custom types (e.g., importMeta.d.ts)
+        ],
+        "moduleResolution": "bundler",             // Use bundler resolution strategy for modules
+        "strict": true,                            // Enable strict type checking for better reliability
+        "esModuleInterop": true,                   // Allow default imports for CommonJS modules
+        "skipLibCheck": true,                      // Skip checking library types (to speed up compilation)
+        "resolveJsonModule": true,                 // Allow importing JSON files
+        "jsx": "preserve",                        // Keep JSX syntax as it is (useful when using Vue JSX or TSX)
+        "allowSyntheticDefaultImports": true,      // Allow synthetic default imports for compatibility
+        "lib": ["esnext", "dom"],                  // Add support for modern ES and DOM types
+        "baseUrl": "./resources/js",               // Set base directory for resolving modules
+        "paths": {
+            "@/*": ["*"]                             // Alias '@' maps to 'resources/js'
+        }
+    },
+    "include": [
+        "resources/js/**/*",                      // Adjust this to match the location of your JS/TS files
+        "resources/js/types"                      // Include custom type definitions
+    ],
+    "exclude": [
+        "node_modules"                             // Exclude node_modules from compilation
+    ]
+}
