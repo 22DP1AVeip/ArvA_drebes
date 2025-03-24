@@ -1,25 +1,16 @@
-# Laravel + Vue Starter Kit
+# ArvA interneta drēbju veikals
+### Ideju apraksts
+Šis projekts ir interneta drēbju veikals, kas piedāvā plašu dažādu stilu apģērbu klājumu. Tas nodrošina lietotājiem ērtu iepirkšanās pieredzi, ļaujot pārlūkot, izpētīt un iegādāties savus iecienītākos apģērbus.
 
-## Introduction
-
-Our Vue starter kit provides a robust, modern starting point for building Laravel applications with a Vue frontend using [Inertia](https://inertiajs.com).
-
-Inertia allows you to build modern, single-page Vue applications using classic server-side routing and controllers. This lets you enjoy the frontend power of Vue combined with the incredible backend productivity of Laravel and lightning-fast Vite compilation.
-
-This Vue starter kit utilizes Vue 3 and the Composition API, TypeScript, Tailwind, and the [shadcn-vue](https://www.shadcn-vue.com) component library.
-
-## Official Documentation
-
-Documentation for all Laravel starter kits can be found on the [Laravel website](https://laravel.com/docs/starter-kits).
-
-## Contributing
-
-Thank you for considering contributing to our starter kit! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## License
-
-The Laravel + Vue starter kit is open-sourced software licensed under the MIT license.
+---
+### Funkcijas
+  
+- Produktu kategorijas: Sakārtotas sadaļas dažādiem apģērbu stiliem (piemēram, ikdienas apģērbs, svinīgs apģērbs, sporta apģērbs).
+  
+- Produkta detaļas: Detalizētas lapas ar attēliem, aprakstiem, izmēriem un cenām.
+  
+- Iepirkumu grozs: Preču pievienošana, noņemšana un apskate pirkumam.
+  
+- Apmaksas process: Droša un vienkārša norēķināšanās sistēma.
+  
+- Paštaisīšana: Pats varēs izvēleties, ko likt uz tā krekla, džempera, bikses u.t.t.(simboli, burti, skaitļi u.c.) 
